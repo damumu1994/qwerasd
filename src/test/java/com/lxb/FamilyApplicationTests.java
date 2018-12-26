@@ -9,12 +9,12 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
-@SpringBootTest()
+@SpringBootTest
 public class FamilyApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		System.out.printf("test");
+		System.out.printf("大傻妞");
 	}
 	@Test
 	public void testOne(){
